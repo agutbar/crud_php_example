@@ -12,9 +12,9 @@ CREATE TABLE libros (
 );
 
 INSERT INTO libros (titulo, autor, categoria, sinopsis, precio, stock) VALUES
-('Jabón de Lavanda', 'Jabón artesanal de lavanda', 5.99, 50),
-('Jabón de Rosas', 'Jabón suavizante de rosas', 6.49, 40),
-('Jabón de Menta', 'Jabón refrescante de menta', 5.89, 60),
+('El Quijote', 'Miguel de Cervantes', 'Novela', 'Las aventuras de un loco que se cree caballero', 5.99, 50),
+('Fernando el Temerario', 'Jose Luis Velasco', 'Novela historica', 'La vida de un niño que se convierte en caballero', 6.49, 40),
+('Kiss Me: 1 - Prohibido enamorarse', 'Elle Kenedy', 'Romance adolescente', 'La historia de Graham y Hannah', 5.89, 60),
 ('Jabón de Avena', 'Jabón exfoliante de avena', 5.49, 35),
 ('Jabón de Cítricos', 'Jabón energizante de cítricos', 6.99, 45),
 ('Jabón de Caléndula', 'Jabón calmante de caléndula', 6.79, 25),
